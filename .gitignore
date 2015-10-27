@@ -4,4 +4,4 @@
 # CLion config files
 /.idea
 
-/CMakeLists.txt
+CMakeLists.txt
