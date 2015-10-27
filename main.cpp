@@ -12,7 +12,7 @@ Node* get_new_node(int data);
 void insert(int data, Node* &root_address);
 bool is_present(int data, Node* root_address);
 
-Node* root_address = NULL;
+Node* root_address = NULL; //Not best practice but I have made this global for ease of use.
 
 int main() {
   insert(15, root_address);
