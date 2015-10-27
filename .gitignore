@@ -1,5 +1,7 @@
 # Mac Finder files
 /.DS_Store
 
-# RubyMine config files
+# CLion config files
 /.idea
+
+/CMakeLists.txt
